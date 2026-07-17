@@ -37,5 +37,3 @@ Data transaksi ini masih memiliki format yang acak-acakan karena diambil dari be
 ## 4. Load
 - Tujuan: Supaya data transaksi bersih dapat disimpan dan dapat digunakan oleh Data Analyst maupun Data Scientist untuk penelitian selanjutnya mengenai apa yang harus dilakukan dari data yang sudah bersih tersebut.
 - Format output: Dalam exercise ini, data disimpan dalam bentuk .csv. Ada 2 jenis laporan yang disimpan dari data transaksi ini, yaitu laporan data bersih dan summary (kesimpulan).
-
-
