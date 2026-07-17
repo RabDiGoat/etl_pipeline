@@ -28,7 +28,7 @@ Data transaksi ini masih memiliki format yang acak-acakan karena diambil dari be
   Harga negatif akan menyebabkan data menjadi error, sehingga harus dihapus. Hal ini akan mengubah banyaknya data yang sebelumnya 120 menjadi 115.
 - Langkah 4: Standarkan format tanggal dan teks unik
   Setelah semua data terisi dan bernilai logis, hal yang dilakukan selanjutnya adalah merapikan data supaya konisten.
-  Untuk tanggal: Karena formatnya masih tercampur-campur, maka format tanggal ini akan diubah menjadi ...
+  Untuk tanggal: Karena formatnya masih tercampur-campur, maka format tanggal ini akan diubah menjadi format yyyy-mm-dd mengikuti standar internasional
   Untuk channel dan kota: Format penulisan akan menggunakan huruf kapital di huruf pertamanya saja, dan seterusnya menggunakan huruf kecil
 - Langkah 5: Buat kolom baru: bulan dan kategori harga
   Setelah semua data terisi dengan konsisten, selanjutnya dapat membuat tambahan kolom berupa bulan kategori suatu transaksi. Hal ini dilakukan untuk mengetahui hal-hal berikut:
