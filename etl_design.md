@@ -14,7 +14,7 @@ Data transaksi ini masih memiliki format yang acak-acakan karena diambil dari be
  Format tanggal yang masih tercampur.
  Masih terdapat penamaan channel yang berbeda meskipun isinya sama (contoh: MARKETPLACE vs marketplace).
  Penamaan kota yang juga berbeda meskipun isinya sama (contoh: Medan vs MEDAN vs medan).
-- Volume: [jelaskan]
+- Volume: Terdapat 130 data transaksi data transaksi e-commerce harian.
 
 ## 3. Transform
 - Langkah 1: Hapus duplikasi
