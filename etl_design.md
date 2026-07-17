@@ -31,9 +31,11 @@ Data transaksi ini masih memiliki format yang acak-acakan karena diambil dari be
   Untuk tanggal: Karena formatnya masih tercampur-campur, maka format tanggal ini akan diubah menjadi ...
   Untuk channel dan kota: Format penulisan akan menggunakan huruf kapital di huruf pertamanya saja, dan seterusnya menggunakan huruf kecil
 - Langkah 5: Buat kolom baru: bulan dan kategori harga
-  
+  Setelah semua data terisi dengan konsisten, selanjutnya dapat membuat tambahan kolom berupa bulan kategori suatu transaksi. Hal ini dilakukan untuk mengetahui hal-hal berikut:
+  Untuk bulan transaksi, hal ini dilakukan supaya dapat mengetahui pola transaksi per bulan yang mungkin terjadi sehingga mungkin dapat menemukan pola dalam suatu transaksi.
+  Untuk kategori transaksi, hal ini dapat dilakukan untuk memilah dan menentukan besar/kecilnya suatu transaksi berdasarkan harga supaya dapat disampaikan dengan lebih jelas mengenai besarnya transaksi.
 ## 4. Load
-- Tujuan: [jelaskan]
-- Format output: [jelaskan]
+- Tujuan: Supaya data transaksi bersih dapat disimpan dan dapat digunakan oleh Data Analyst maupun Data Scientist untuk penelitian selanjutnya mengenai apa yang harus dilakukan dari data yang sudah bersih tersebut.
+- Format output: Dalam exercise ini, data disimpan dalam bentuk .csv. Ada 2 jenis laporan yang disimpan dari data transaksi ini, yaitu laporan data bersih dan summary (kesimpulan).
 
 
